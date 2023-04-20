@@ -1,5 +1,6 @@
 #!/bin/bash
 
+wget https://github.com/usefulsensors/openai-whisper/raw/main/models/whisper-int8.tflite
 wget https://storage.googleapis.com/ailia-models/whisper/encoder_tiny.onnx
 wget https://storage.googleapis.com/ailia-models/whisper/decoder_tiny_fix_kv_cache.onnx
 

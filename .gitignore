@@ -1,2 +1,3 @@
+*.tflite
 *.onnx
 whisper_orig/*.pt
